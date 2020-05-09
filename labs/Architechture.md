@@ -70,12 +70,12 @@
 ### 2 Связь с разработчиком  
 Внизу странизу будет кнопка, которая позволит свзаться с разработчиком. Предположительно, с помощью почты.  
 
-![Architecture To be](https://github.com/L1ttl3S1st3r/wannait/blob/master/Documents/Design/ComponentsAndDeployment/components.jpg)
+![Component_diagram_Boostpay](https://user-images.githubusercontent.com/60814441/81481545-b4a93280-9239-11ea-9f54-4d0de7a7d244.png)
 
 # Архитектура As is  
 
-![Architecture As is](https://github.com/L1ttl3S1st3r/wannait/blob/master/Documents/Design/ComponentsAndDeployment/components.jpg)
-![Class diagram](https://github.com/L1ttl3S1st3r/wannait/blob/master/Documents/Design/Class/classes.jpeg)
+![Component_diagram_Boostpay](https://user-images.githubusercontent.com/60814441/81481545-b4a93280-9239-11ea-9f54-4d0de7a7d244.png)
+![Class diagram](https://user-images.githubusercontent.com/60814441/81481564-cbe82000-9239-11ea-85f2-d1465de84dc1.png)
 
 # Сравнение
 
