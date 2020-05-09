@@ -4,7 +4,7 @@
 ## Онлайн-сервис по предоставлению услуг в сфере игровой индустрии
 Язык реализации: Python, Django, SQLite
 ## Ссылки на лабораторные работы:
-- [Исследование архитектурного решения]()  
+- [Исследование архитектурного решения](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/Architechture.md)  
 - [Парное программирование](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/PairProgramming.md)  
 - [Технический долг](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/TechnicalDebt.md)  
 - [Улучшения UX]()
