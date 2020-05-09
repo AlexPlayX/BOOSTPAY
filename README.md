@@ -7,4 +7,4 @@
 - [Исследование архитектурного решения](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/Architechture.md)  
 - [Парное программирование](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/PairProgramming.md)  
 - [Технический долг](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/TechnicalDebt.md)  
-- [Улучшения UX]()
+- [Улучшения UX](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/UX.md)
