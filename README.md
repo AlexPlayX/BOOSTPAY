@@ -6,5 +6,5 @@
 ## Ссылки на лабораторные работы:
 - [Исследование архитектурного решения]()  
 - [Парное программирование](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/PairProgramming.md)  
-- [Технический долг]()  
+- [Технический долг](https://github.com/BOOSTPAY/BOOSTPAY/blob/master/labs/TechnicalDebt.md)  
 - [Улучшения UX]()
