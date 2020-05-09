@@ -14,6 +14,6 @@
 ![Snimok_11](https://user-images.githubusercontent.com/60814441/81481874-c4c21180-923b-11ea-9747-b4065218743b.png)
 
 До
-![Snimok_ekrana_ot_202022222](https://user-images.githubusercontent.com/60814441/81481899-08b51680-923c-11ea-9804-6f0c05fe8f7d.png)
-После
 ![Snimok_ekrana_ot_11](https://user-images.githubusercontent.com/60814441/81481906-11a5e800-923c-11ea-9f5a-1aca581b8e63.png)
+После
+![Snimok_ekrana_ot_202022222](https://user-images.githubusercontent.com/60814441/81481899-08b51680-923c-11ea-9804-6f0c05fe8f7d.png)
