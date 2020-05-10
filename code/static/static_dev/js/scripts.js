@@ -63,6 +63,9 @@ $(document).ready(function(){
     function showingBasket(){
         $('.basket-items').removeClass('hidden');
     };
+    function stopShowingBasket(){
+        $('.basket-items').addClass('hidden');
+    }
 
     //$('.basket-container').on('click', function(e){
     //    e.preventDefault();
@@ -73,9 +76,10 @@ $(document).ready(function(){
          showingBasket();
      });
 
-     //$('.basket-container').mouseout(function(){
-     //   showingBasket();
-     //});
+     $('.basket-container').mouseout(function(){
+         stopShowingBasket();
+        //showingBasket();
+     });
 
      $(document).on('click', '.delete-item', function(e){
          e.preventDefault();

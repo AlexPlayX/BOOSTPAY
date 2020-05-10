@@ -28,7 +28,7 @@
                             <tbody>
                                 {% for order in orders %}
                                     <tr>
-                                        <td>
+                                        <td class="text-left">
                                             {% if order.order.status == "n" %}
                                                 Новый
                                             {% endif %}
@@ -40,13 +40,13 @@
                                             {% endif %}
 
                                         </td>
-                                        <td>
+                                        <td class="text-left">
                                              {{ order.created }}
                                         </td>
-                                        <td>
+                                        <td class="text-left">
                                                 {{order.product.name}}
                                         </td>
-                                        <td>
+                                        <td class="text-left">
                                             {{ order.total_price }}
                                         </td>
                                     </tr>
